@@ -6,11 +6,9 @@ Biswajit Behera
 
 ==========
 
-### HTML task
+## HTML task
 
-Task Number
 
-Link
 
 Task1
 
@@ -34,8 +32,6 @@ Task5
 
 ## CSS task
 
-
-Link
 
 Task1
 
