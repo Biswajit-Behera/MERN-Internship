@@ -3,10 +3,10 @@
 Biswajit Behera
 -------------------------------
 
-Index page
+
 ==========
 
-HTML task
+## HTML task
 
 Task Number
 
@@ -32,9 +32,8 @@ Task5
 
 [Link5](./HTML-Task5.html)
 
-CSS task
+## CSS task
 
-Task Number
 
 Link
 
