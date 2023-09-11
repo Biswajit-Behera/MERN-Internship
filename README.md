@@ -1,9 +1,7 @@
-# MERN-Internship
-# MERN-Internship
-  Document
-
+ 
 21BPS1216  
 Biswajit Behera
+-------------------------------
 
 Index page
 ==========
@@ -14,52 +12,25 @@ Task Number
 
 Link
 
-# Task1
+Task1
 
 [Link1](./HTML-Task1.html)
-
-[Photo1]
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/03eb4499-db3c-4967-8944-6a901fa42dd3">
-
 
 Task2
 
 [Link2](./HTML-Task2.html)
 
-[Photo2]
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/5e1788de-83e3-4795-8b10-31593b0569d9">
-
-
 Task3
 
 [Link3](./HTML-Task3.html)
-
-[Photo3]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/68b22426-6d01-40bd-8ef3-9aadea2b7b9d">
-
-
-
 
 Task4
 
 [Link4](./HTML-Task4.html)
 
-[Photo4]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/e0c50659-d821-4c95-8204-4f6e8ee48b3b">
-
-
-
 Task5
 
 [Link5](./HTML-Task5.html)
-
-[Photo5]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/e0f57d94-6f69-4666-9e20-b0b2bcaaea69">
-
-
 
 CSS task
 
@@ -71,63 +42,92 @@ Task1
 
 [Link1](./CSS-Task1.html)
 
-[Photo1]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/702fe561-0208-4f67-af92-86ce1a70e833">
-
 Task2
 
 [Link2](./CSS-Task2.html)
-
-[Photo2]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/aa25b908-6a4e-4452-8f94-0beb800160d5">
-
 
 Task3
 
 [Link3](./CSS-Task3.html)
 
-[Photo3]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/22c796a4-39cf-4c98-92e6-4e1f981171e1">
-
-
-
-
 Task4
 
 [Link4](./CSS-Task4.html)
-
-[Photo4]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/6c12ec0f-9245-40af-9eb4-268ceac3882c">
-
-
 
 Task5
 
 [Link5](./CSS-Task5.html)
 
-[Photo5]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/d7a024a5-2b96-42a2-ba02-1641a3e009a5">
-
-
-
 Task6
 
 [Link6](./CSS-Task6.html)
-
-[Photo6]
-
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/54b7c522-8fa2-4880-beb1-0381123534b6">
-
 
 Task7
 
 [Link7](./CSS-Task7.html)
 
-[Photo7]
+Screenshots img { max-width: 30%; height: auto; display: block; margin: 0 auto; } h2 { text-align: center; } h4 { text-align: center; }
 
-<img width="1440" alt="image" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/292b3873-1ba4-4ea7-a401-a8e2298ea31d">
+HTML Task Screenshots
+---------------------
+
+#### Task 1
+
+<img width="1440" alt="HTML Task-1" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/96baaed4-b044-46b9-9c52-b323bce7e5d7">
+
+#### Task 2
+
+<img width="1440" alt="HTML Task-2" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/5dce3df5-6d71-410a-b39a-3137746901ac">
+
+
+#### Task 3
+
+<img width="1440" alt="HTML Task-3" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/83cb809e-4f87-4cf5-9775-42c861d69d00">
+
+
+#### Task 4
+
+<img width="1440" alt="HTML Task-4" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/68241aac-3c14-49eb-acd2-16b5f6de3bb6">
+
+
+#### Task 5
+
+<img width="1440" alt="HTML Task-5" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/487143ef-00db-4fec-999d-7089afb5b841">
+
+
+CSS Task Screenshots
+--------------------
+
+#### Task 1
+<img width="1440" alt="CSS Task-1" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/207687e0-821a-4526-a732-7367301926a4">
+
+
+#### Task 2
+
+<img width="1440" alt="CSS Task-2" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/72999703-3c3c-4324-a3da-3e3bc8d9ae3d">
+
+
+#### Task 3
+
+<img width="1440" alt="CSS Task-3" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/8e89ab88-5791-4b67-ba3d-55faa5e623bf">
+
+
+#### Task 4
+
+<img width="1440" alt="CSS Task-4" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/e354ad8c-2c95-40a6-9b3c-8703d74cefc4">
+
+
+#### Task 5
+
+<img width="1440" alt="CSS Task-5" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/47f7b699-48ff-48dc-bd51-a0430dc98ce0">
+
+
+#### Task 6
+
+<img width="1440" alt="CSS Task-6" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/a2723eff-2dac-4f14-8b3b-e596a0da2efc">
+
+
+#### Task 7
+
+<img width="1440" alt="CSS Task-7" src="https://github.com/Biswajit-Behera/MERN-Internship/assets/86191708/5d9c68e3-6731-4568-ae95-17ef4001765f">
+
